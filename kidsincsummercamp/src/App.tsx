@@ -242,7 +242,7 @@ export default function App() {
                   Book Now
                 </a>
                 <p className="text-center text-xs font-black uppercase tracking-widest text-red-500 mt-6">
-                  Deadline: 30th April
+                  Deadline: 10th May
                 </p>
               </div>
             </div>
