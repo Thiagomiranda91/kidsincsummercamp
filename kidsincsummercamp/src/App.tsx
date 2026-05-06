@@ -86,7 +86,7 @@ export default function App() {
                 className="inline-flex items-center gap-2 bg-white border-2 border-red-500 text-red-600 px-4 py-2 rounded-xl font-bold text-xs uppercase tracking-widest mb-8 shadow-[2px_2px_0px_#EF4444]"
               >
                 <AlertCircle size={16} strokeWidth={3} />
-                Early Bird Deadline: 30th April
+                Early Bird Deadline: 10th May
               </motion.div>
               
               <motion.h1 
